@@ -1,0 +1,16 @@
+# ignore hdf5 files
+*.hdf
+*.h5
+*.hdf5
+*.he5
+*.jpg
+*.pb
+*.tflite
+*.pdf
+
+**/Books/*.pdf
+**/Books/
+**/Week1-basics_n_setup/Docker_sql/ny_taxi_postgres_data/
+**/Week1-basics_n_setup/Docker_sql/taxi_zone_postgres_data/
+/Week1-basics_n_setup/Docker_sql/*.csv
+**/Week1-basics_n_setup/Terraform/
